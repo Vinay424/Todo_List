@@ -8,7 +8,7 @@ https://github.com/Vinay424/Todo_List.git
 
 # React To-Do List
 
-![TODO List](project-image.png)
+![TODO List](img.png)
 
 A simple To-Do List application built with React.js.
 
@@ -52,16 +52,17 @@ You need to have Node.js and npm (Node Package Manager) installed on your machin
    git clone https://github.com/yourusername/react-todo-list.git
 
 2. Change to the project directory:
- ```shell
-   cd react-todo-list
+ 
+  cd react-todo-list
+
 
 3. Change to the project directory:
- ```shell
+ 
    npm install
 
-### Installation
+### Usage
 To start the development server and view the application, run the following command:
-```shell
+
 npm start
 
 The application will be available at http://localhost:3000 by default.
